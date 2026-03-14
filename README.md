@@ -61,7 +61,9 @@ Functions used:
 - `create_histogram()`
 - `create_boxplot()`
 - `create_correlation_matrix()`
-
+<p align="center">
+  <img src="assets/correlation.png" alt="Correlation Heatmap" width="600"/>
+</p>
 ### 5. Outlier Detection
 Outliers are detected using:
 
@@ -87,6 +89,9 @@ Functions used:
 
 ### 8. Decision Tree Model
 A **Decision Tree classifier** is trained on the processed dataset.
+<p align="center">
+  <img src="assets/decision_tree.jpg" alt="Decision Tree" width="900"/>
+</p>
 
 Function used:
 - `decision_tree()`
